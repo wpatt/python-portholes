@@ -6,3 +6,6 @@ f = Path(__file__).parent.joinpath('corpus/raw/registerofletter00eastuoft_djvu.t
 
 for i in range(10):
     print(f.readline())
+
+
+# thomasmiddleton's comment
